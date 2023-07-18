@@ -5,14 +5,17 @@ A Shopping List App that has your shopping items stored and manages your grocery
 
 
 ## Build With:
-[Flutter](https://docs.flutter.dev/).
+![Flutter](https://docs.flutter.dev/).   
+
+
 [Firebase](https://firebase.google.com/docs?gad=1&gclid=Cj0KCQjw8NilBhDOARIsAHzpbLC6gme9Y2mmX3KVI67k-FWfLFYocx1S73_faMIYrp7p5RiTCGZvlc8aAhPyEALw_wcB&gclsrc=aw.ds)
-https://firebase.google.com/docs?gad=1&gclid=Cj0KCQjw8NilBhDOARIsAHzpbLC6gme9Y2mmX3KVI67k-FWfLFYocx1S73_faMIYrp7p5RiTCGZvlc8aAhPyEALw_wcB&gclsrc=aw.ds
+
 
 
 ## User Screen
 ---
 #### Home Screen
+![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/34834a13-58a3-4dbc-a291-dbaec5bfbef4)
 
 
 #### Add New Expenses
