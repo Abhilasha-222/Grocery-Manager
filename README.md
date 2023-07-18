@@ -26,7 +26,10 @@ A Shopping List App that has your shopping items stored and manages your grocery
 ##### Show on the Home Screen in alphabetical order
 ![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/bebba385-1406-46d0-8522-af47863d96b5)
 
+
 ###Datebase 
+
+
 ![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/3cb4c745-ea8f-4534-88a1-f70526a5c744)
 
 
