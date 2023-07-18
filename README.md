@@ -5,7 +5,7 @@ A Shopping List App that has your shopping items stored and manages your grocery
 
 
 ## Build With:
-![Flutter](https://docs.flutter.dev/).   
+[Flutter](https://docs.flutter.dev/).   
 
 
 [Firebase](https://firebase.google.com/docs?gad=1&gclid=Cj0KCQjw8NilBhDOARIsAHzpbLC6gme9Y2mmX3KVI67k-FWfLFYocx1S73_faMIYrp7p5RiTCGZvlc8aAhPyEALw_wcB&gclsrc=aw.ds)
@@ -18,13 +18,20 @@ A Shopping List App that has your shopping items stored and manages your grocery
 ![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/34834a13-58a3-4dbc-a291-dbaec5bfbef4)
 
 
-#### Add New Expenses
+#### Add New Item
 ##### By Clicking on Add Button
-![image](https://github.com/Abhilasha-222/-MY-EXPENSE-TRACKER-/assets/94596235/6c0b0024-33ea-4349-929e-4b0f23886bb2)
+![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/834a2a23-57a6-40a8-8cf2-3400f5348855)
+![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/33b3abe3-7392-493f-83ec-3e27619ca6e7)
 
-##### Click on the Save Expense Button
-![image](https://github.com/Abhilasha-222/-MY-EXPENSE-TRACKER-/assets/94596235/c58f1121-38f1-42cc-a570-a96391e97954)
+##### Show on the Home Screen in alphabetical order
+![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/bebba385-1406-46d0-8522-af47863d96b5)
 
-##### Will show on Home Screen
-![image](https://github.com/Abhilasha-222/-MY-EXPENSE-TRACKER-/assets/94596235/3e9be8bd-4b31-4b47-a108-7281586e04a3)
+###Datebase 
+![image](https://github.com/Abhilasha-222/Grocery-Manager/assets/94596235/3cb4c745-ea8f-4534-88a1-f70526a5c744)
+
+
+
+
+
+
 
